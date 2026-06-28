@@ -22,6 +22,6 @@ employees: CREATE TABLE employees (
           );
 
 
-After which all you have to do is to Load the code into your local machine and execute:
+After which all you have to do is to Load the code into your local machine, then change the password inside Conn.java file and execute:
 Compile: javac CarDealership.java
 Run: java CarDealership
